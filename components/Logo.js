@@ -5,7 +5,7 @@ export default class Logo extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Quiz by Pr0xY & ...</Text>
+        <Text style={styles.text}>Quiz by Pr0xY &amp; ...</Text>
       </View>
     );
   }
